@@ -25,5 +25,5 @@ Tips:
 2021-1-6 学习markdown、git和python
 
 ## 鲍桉畅
-2021-1-10 git yyds
+2021-1-10 git yyds master(×), main(√)
 
